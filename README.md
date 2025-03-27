@@ -23,6 +23,8 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
    * Occupation-wise purchasing patterns.
    * Popular product categories during the Diwali season.
    * Created visualizations (bar plots, count plots) to support findings.
+
+## 📊 Visual Summaries
  
 ![top_products (1)](https://github.com/user-attachments/assets/e863e5ba-2755-4475-af76-a10c66d974b8)
 
