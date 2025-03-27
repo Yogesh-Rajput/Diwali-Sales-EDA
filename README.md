@@ -1,30 +1,25 @@
- 
-📁 Project Structure
-Diwali Sales Data.csv: The dataset containing customer demographic details, product categories, order counts, and purchase amounts.
-Learning.ipynb: The Jupyter notebook performing data cleaning, exploration, and visualization.
-🔍 Objectives
-
 # 🛍️ Diwali-Sales-EDA
 
 This project is an exploratory data analysis (EDA) of Diwali sales data. The aim is to analyze customer purchasing behavior and patterns during the Diwali festival season to uncover insights useful for marketing, sales strategy, and customer segmentation.
 
-## Project Structure
+## 📁 Project Structure
 
 * Diwali Sales Data.csv: The dataset contains customer demographic details, product categories, order counts, and purchase amounts.
 * Diwali Sales EDA.ipynb: The Jupyter notebook performs data cleaning, exploration, and visualization.
 
-## Objectives
+## 🔍 Objectives
 
 * Clean and preprocess raw sales data.
 * Analyze customer demographics (age, gender, marital status).
 * Explore purchasing patterns across different regions, states, and product categories.
 * Visualize insights using Seaborn and Matplotlib.
-📊 Key Steps in the Notebook
-Imported necessary libraries (Pandas, NumPy, Seaborn, Matplotlib).
-Loaded and cleaned the dataset (e.g., removed null values and unnecessary columns).
-Conducted EDA on:
-Gender-based and age-group-based spending.
-Geographic distribution of orders and revenue.
+  
+## 📊 Key Steps in the Notebook
+* Imported necessary libraries (Pandas, NumPy, Seaborn, Matplotlib).
+* Loaded and cleaned the dataset (e.g., removed null values and unnecessary columns).
+* Conducted EDA on:
+   * Gender-based and age-group-based spending.
+   * Geographic distribution of orders and revenue.
 Occupation-wise purchasing patterns.
 Popular product categories during the Diwali season.
 Created visualizations (bar plots, count plots, etc.) to support findings.
