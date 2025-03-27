@@ -26,8 +26,8 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
 
 ## 📈 Sample Insights
 * Married women aged 26–35 were among the top spenders.
-* The sales volumes were not concentrated to any one particular region.
-* People working in IT and Healthcare sectors displayed the highest spending capacity.
+* Sales volumes were not concentrated to any one particular region.
+* People working in the IT and Healthcare sectors displayed the highest spending capacity.
 
 ## 🚀 How to Run
 * Clone this repository.
