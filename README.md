@@ -30,12 +30,9 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
 * People working in the IT and Healthcare sectors displayed the highest spending capacity.
 
 ## 📊 Visual Summaries
-* Top 10 Product Categories by Revenue
 ![top_products_animated](https://github.com/user-attachments/assets/33152925-f948-4ef1-a57c-1b45dcb22b9e)
 
-![agegroup_spending](https://github.com/user-attachments/assets/260c7d4a-4f10-4b26-9e11-59fa7cb80841)
-
-![top_products](https://github.com/user-attachments/assets/8379f59f-9719-4df6-bcd1-a22f9477fe78)
+![agegroup_spending_animated](https://github.com/user-attachments/assets/8c63ba5a-1beb-4a02-968e-987cd561c2c8)
 
 ## 🚀 How to Run
 * Clone this repository.
