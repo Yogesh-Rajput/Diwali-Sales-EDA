@@ -31,10 +31,10 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
 
 ## 📊 Visual Summaries
 #### • Top 10 Product Categories by Revenue
-<img src="top_products.gif" width="600">
+![top_products (1)](https://github.com/user-attachments/assets/e863e5ba-2755-4475-af76-a10c66d974b8)
 
 #### • Amount Spent by Age Group and Gender
-<img src="agegroup_spending.gif" width="600">
+![agegroup_spending (1)](https://github.com/user-attachments/assets/16349833-fa26-4c75-b778-de09119a5d1e)
 
 ## 🚀 How to Run
 * Clone this repository.
