@@ -2,6 +2,10 @@
 
 This project is an exploratory data analysis (EDA) of Diwali sales data. The aim is to analyze customer purchasing behavior and patterns during the Diwali festival season to uncover insights useful for marketing, sales strategy, and customer segmentation.
 
+![top_products (1)](https://github.com/user-attachments/assets/e863e5ba-2755-4475-af76-a10c66d974b8)
+
+![agegroup_spending (1)](https://github.com/user-attachments/assets/16349833-fa26-4c75-b778-de09119a5d1e)
+
 ## 📁 Project Structure
 
 * Diwali Sales Data.csv: The dataset contains customer demographic details, product categories, order counts, and purchase amounts.
@@ -23,11 +27,6 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
    * Occupation-wise purchasing patterns.
    * Popular product categories during the Diwali season.
    * Created visualizations (bar plots, count plots) to support findings.
-
-## 📊 Visual Summaries
-![top_products (1)](https://github.com/user-attachments/assets/e863e5ba-2755-4475-af76-a10c66d974b8)
-
-![agegroup_spending (1)](https://github.com/user-attachments/assets/16349833-fa26-4c75-b778-de09119a5d1e)
 
 ## 📈 Sample Insights
 * Married women aged 26–35 were among the top spenders.
