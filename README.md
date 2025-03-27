@@ -14,7 +14,7 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
 * Explore purchasing patterns across different regions, and product categories.
 * Visualize insights using Seaborn and Matplotlib.
   
-## 📊 Key Steps in the Notebook
+## 🧩 Key Steps in the Notebook
 * Imported necessary libraries (Pandas, NumPy, Seaborn, Matplotlib).
 * Loaded and cleaned the dataset (e.g., removed null values and unnecessary columns).
 * Conducted EDA on:
@@ -28,6 +28,11 @@ This project is an exploratory data analysis (EDA) of Diwali sales data. The aim
 * Married women aged 26–35 were among the top spenders.
 * Sales volumes were not concentrated to any one particular region.
 * People working in the IT and Healthcare sectors displayed the highest spending capacity.
+
+## 📊 Visual Summaries
+* Top 10 Product Categories by Revenue
+![top_products_animated](https://github.com/user-attachments/assets/33152925-f948-4ef1-a57c-1b45dcb22b9e)
+
 ![agegroup_spending](https://github.com/user-attachments/assets/260c7d4a-4f10-4b26-9e11-59fa7cb80841)
 
 ![top_products](https://github.com/user-attachments/assets/8379f59f-9719-4df6-bcd1-a22f9477fe78)
